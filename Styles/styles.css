@@ -19,7 +19,7 @@
 }
 .cabecalho__menu {
     display:flex;
-    gap: 80px;
+    gap: 10%;
 }
 .cabecalho__menu__link {
     font-family: var(--fonte--secundaria);
@@ -80,7 +80,7 @@ body {
     justify-content:center;
     gap:16px;
     background-color: var(--cor--primaria);
-    width: 50%;
+    width: auto;
     text-align: center;
     border-radius: 16px;
     font-size: 1.5rem;
